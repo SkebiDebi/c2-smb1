@@ -118,7 +118,7 @@
                             <param id="0" name="Text">Function.Call(&quot;string_repeat&quot;, &quot; &quot;, 3)</param>
                         </action>
                         <action id="1" name="Append text" sid="4947494528486754" type="MarioText">
-                            <param id="0" name="Text">&quot;MARIO&quot;</param>
+                            <param id="0" name="Text">&quot;PLAYER&quot;</param>
                         </action>
                         <action id="1" name="Append text" sid="5224900450704943" type="MarioText">
                             <param id="0" name="Text">Function.Call(&quot;string_repeat&quot;, &quot; &quot;, 10)</param>
